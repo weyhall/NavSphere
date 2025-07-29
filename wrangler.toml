@@ -10,6 +10,6 @@ GITHUB_ID = "Ov23liBr5mkpHPeijbZt"
 GITHUB_OWNER = "weyhall"
 GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
-NEXTAUTH_URL = "https://nav.weyhall.qzz.io//api/auth"
+NEXTAUTH_URL = "https://nav.weyhall.qzz.io/api/auth"
 NEXT_PUBLIC_API_URL="https://nav.weyhall.qzz.io/"
 
